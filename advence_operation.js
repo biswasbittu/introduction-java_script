@@ -16,8 +16,11 @@
 // price2 -=10;
 // console.log(price2)
 // console.log(price1)
-price1=45;
+price1 = 45;
 
 // price1 -=10;
-price1/=5;
+// price1 /= 5;
+console.log(price1)
+
+price1++;
 console.log(price1)
